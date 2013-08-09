@@ -2,6 +2,10 @@
 
 ## Meetups
 
+### 1 August 2013
+
+* [Object Oriented Javascript -and why it matters-](http://www.slideshare.net/cherta/object-oriented-javascript-25025600) - [Gabriel Chertok](https://github.com/cherta)
+
 ### 4 April 2013
 
 * [Typescript for Dummies](https://speakerdeck.com/santiagoaguiar/typescript-for-dummies) - [Santiago Aguiar](https://twitter.com/santiaguiar)
